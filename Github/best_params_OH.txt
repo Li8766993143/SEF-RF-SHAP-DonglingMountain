@@ -1,0 +1,1 @@
+{ 'n_estimators': 1879, 'max_depth': 18,'min_samples_split': 4,'min_samples_leaf': 2,'max_features': 'sqrt'}
